@@ -1,0 +1,50 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  background-image: radial-gradient(circle, #24b63d, #1ba63a, #139537, #0d8633, #08762f);
+  color: white;
+  box-sizing: border-box;
+}
+
+.titulo {
+  text-align: center;
+  background-color: #000000;
+  color: white;
+  padding: 20px;
+  font-size: 25px;
+}
+
+.cartas {
+  display: flex;
+  width: 0;
+  height: 250px;
+  margin: 0.5rem;
+}
+
+
+.btn {
+  box-shadow: 2px 0 20px 0 #00000035;
+}
+
+.containerSecond {
+  margin-top: 22rem;
+  
+}
+
+.jugadores {
+  background-color: #000d1a74;
+  padding: 1rem 0rem;
+  font-size: 1.8rem;
+  border-radius: 0.2rem;
+  
+}
+
+.jugadores:hover {
+  background-color: #073417;
+}
+
+b {
+  font-size: 1.9rem;
+  margin: 0;
+}
